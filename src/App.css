@@ -77,7 +77,7 @@ body {
 }
 
 .mobile-hamb:hover {
-  color: var(--red);
+  color:blue;
 }
 
 .mobile-navbar {
@@ -495,5 +495,10 @@ body {
   .footer {
     text-align: center;
   }
+}
+#myProfile{
+  width: 20%;;
+  border-radius: 50%;
+  height: 0%;
 }
 
